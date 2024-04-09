@@ -1,0 +1,18 @@
+package com.rays.ctl;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.rays.common.BaseCtl;
+
+/**
+ * @author Gopal Tyagi
+ *
+ */
+@RestController
+@RequestMapping(value = "Role")
+public class RoleCtl extends BaseCtl {
+	
+	
+
+}
